@@ -1,7 +1,6 @@
 #include <iostream>
 #include <termios.h>
 #include <unistd.h>
-#include <vector>
 using namespace std;
 struct termios orig_termios;
 
