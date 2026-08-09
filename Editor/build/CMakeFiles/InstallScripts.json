@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/hp/Desktop/Titus/Editor/build/cmake_install.cmake",
+		"/home/hp/Desktop/Titus/Editor/build/_deps/ftxui-build/cmake_install.cmake",
+		"/home/hp/Desktop/Titus/Editor/build/_deps/ftxui-build/examples/cmake_install.cmake",
+		"/home/hp/Desktop/Titus/Editor/build/_deps/ftxui-build/doc/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

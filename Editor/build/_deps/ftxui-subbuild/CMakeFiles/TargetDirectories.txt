@@ -1,0 +1,3 @@
+/home/hp/Desktop/Titus/Editor/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.dir
+/home/hp/Desktop/Titus/Editor/build/_deps/ftxui-subbuild/CMakeFiles/edit_cache.dir
+/home/hp/Desktop/Titus/Editor/build/_deps/ftxui-subbuild/CMakeFiles/rebuild_cache.dir
